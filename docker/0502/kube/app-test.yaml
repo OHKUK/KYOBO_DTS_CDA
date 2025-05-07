@@ -1,0 +1,21 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: app-test
+  labels:
+    app: app-test
+spec:
+  containers:
+  - image: takytaky/app:v1
+    name: app-container
+    ports:
+    - containerPort: 80
+      protocol: TCP
+  - image: busybox
+    name: app-busybox
+    command: ["sleep","3600"]
+    env:
+    - name: MYNAME
+      value: "UK"
+    - name: MYHOME
+      vlaue: "home"
