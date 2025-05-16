@@ -1,0 +1,28 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: wordpress-server
+  namespace: wordpress
+spec:
+  selector:
+    matchLabels:
+      app: wordpress-server
+  replicas: 3
+  template:
+    metadata:
+      labels:
+        app: wordpress-server
+    spec:
+      containers:
+      - name: wordpress-server
+        image: wordpress:6.4
+        ports:
+        - containerPort: 80
+        resources:
+          limits:
+            cpu: 300m
+          requests:
+            cpu: 100m
+        envFrom:
+        - configMapRef:
+            name: wordpress-configmap

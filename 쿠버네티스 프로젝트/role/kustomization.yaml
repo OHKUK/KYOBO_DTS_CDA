@@ -1,0 +1,5 @@
+resources:
+  - site-role.yaml
+  - site-binding.yaml
+  - wp-role.yaml
+  - wp-binding.yaml

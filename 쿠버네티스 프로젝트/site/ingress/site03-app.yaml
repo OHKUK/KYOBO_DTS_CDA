@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: site03-app
+  namespace: site
+  labels:
+    app: site03-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: site03-app
+  template:
+    metadata:
+      labels:
+        app: site03-app
+    spec:
+      containers:
+      - name: site03-app
+        image: qorhvma9/site:03
+        ports:
+        - containerPort: 5000

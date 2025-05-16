@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: site03-svc
+  namespace: site
+spec:
+  type: ClusterIP
+  selector:
+    app: site03-app
+  ports:
+  - protocol: TCP
+    port: 80
+    targetPort: 5000

@@ -1,0 +1,7 @@
+resources:
+  - pv.yaml
+  - pvc.yaml
+  - wordpress-configmap.yaml
+  - wordpress-autoscaling.yaml
+  - wordpress-server.yaml
+  - wordpress-service.yaml

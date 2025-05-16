@@ -1,0 +1,8 @@
+resources:
+  - site01-app.yaml
+  - site02-app.yaml
+  - site03-app.yaml
+  - site01-svc.yaml
+  - site02-svc.yaml
+  - site03-svc.yaml
+  - ingress-site.yaml

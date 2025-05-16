@@ -1,0 +1,38 @@
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  name: db-server
+  namespace: wordpress
+spec:
+  serviceName: db-server
+  replicas: 1
+  selector:
+    matchLabels:
+      app: db-server
+  template:
+    metadata:
+      labels:
+        app: db-server
+    spec:
+      nodeSelector:
+        kubernetes.io/hostname: worker2
+      containers:
+      - name: db-server
+        image: mysql:8.0
+        ports:
+        - containerPort: 3306
+        volumeMounts:
+        - name: db
+          mountPath: /var/lib/mysql
+        envFrom:
+          - configMapRef:
+             name: db-configmap
+  volumeClaimTemplates:
+  - metadata:
+      name: db
+    spec:
+      resources:
+        requests:
+          storage: 10Gi
+      accessModes:
+      - ReadWriteOnce

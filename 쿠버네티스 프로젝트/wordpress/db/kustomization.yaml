@@ -1,0 +1,5 @@
+resources:
+  - db-pv.yaml
+  - db-configmap.yaml
+  - db-sever.yaml
+  - db-service.yaml
