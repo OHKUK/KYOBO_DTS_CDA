@@ -1,0 +1,362 @@
+[
+    {
+        "category": "LGT",
+        "fcstDate": "20250702",
+        "fcstTime": "1300",
+        "fcstValue": "0"
+    },
+    {
+        "category": "LGT",
+        "fcstDate": "20250702",
+        "fcstTime": "1400",
+        "fcstValue": "0"
+    },
+    {
+        "category": "LGT",
+        "fcstDate": "20250702",
+        "fcstTime": "1500",
+        "fcstValue": "0"
+    },
+    {
+        "category": "LGT",
+        "fcstDate": "20250702",
+        "fcstTime": "1600",
+        "fcstValue": "0"
+    },
+    {
+        "category": "LGT",
+        "fcstDate": "20250702",
+        "fcstTime": "1700",
+        "fcstValue": "0"
+    },
+    {
+        "category": "LGT",
+        "fcstDate": "20250702",
+        "fcstTime": "1800",
+        "fcstValue": "0"
+    },
+    {
+        "category": "PTY",
+        "fcstDate": "20250702",
+        "fcstTime": "1300",
+        "fcstValue": "0"
+    },
+    {
+        "category": "PTY",
+        "fcstDate": "20250702",
+        "fcstTime": "1400",
+        "fcstValue": "0"
+    },
+    {
+        "category": "PTY",
+        "fcstDate": "20250702",
+        "fcstTime": "1500",
+        "fcstValue": "0"
+    },
+    {
+        "category": "PTY",
+        "fcstDate": "20250702",
+        "fcstTime": "1600",
+        "fcstValue": "0"
+    },
+    {
+        "category": "PTY",
+        "fcstDate": "20250702",
+        "fcstTime": "1700",
+        "fcstValue": "0"
+    },
+    {
+        "category": "PTY",
+        "fcstDate": "20250702",
+        "fcstTime": "1800",
+        "fcstValue": "0"
+    },
+    {
+        "category": "RN1",
+        "fcstDate": "20250702",
+        "fcstTime": "1300",
+        "fcstValue": "강수없음"
+    },
+    {
+        "category": "RN1",
+        "fcstDate": "20250702",
+        "fcstTime": "1400",
+        "fcstValue": "강수없음"
+    },
+    {
+        "category": "RN1",
+        "fcstDate": "20250702",
+        "fcstTime": "1500",
+        "fcstValue": "강수없음"
+    },
+    {
+        "category": "RN1",
+        "fcstDate": "20250702",
+        "fcstTime": "1600",
+        "fcstValue": "강수없음"
+    },
+    {
+        "category": "RN1",
+        "fcstDate": "20250702",
+        "fcstTime": "1700",
+        "fcstValue": "강수없음"
+    },
+    {
+        "category": "RN1",
+        "fcstDate": "20250702",
+        "fcstTime": "1800",
+        "fcstValue": "강수없음"
+    },
+    {
+        "category": "SKY",
+        "fcstDate": "20250702",
+        "fcstTime": "1300",
+        "fcstValue": "3"
+    },
+    {
+        "category": "SKY",
+        "fcstDate": "20250702",
+        "fcstTime": "1400",
+        "fcstValue": "4"
+    },
+    {
+        "category": "SKY",
+        "fcstDate": "20250702",
+        "fcstTime": "1500",
+        "fcstValue": "4"
+    },
+    {
+        "category": "SKY",
+        "fcstDate": "20250702",
+        "fcstTime": "1600",
+        "fcstValue": "4"
+    },
+    {
+        "category": "SKY",
+        "fcstDate": "20250702",
+        "fcstTime": "1700",
+        "fcstValue": "4"
+    },
+    {
+        "category": "SKY",
+        "fcstDate": "20250702",
+        "fcstTime": "1800",
+        "fcstValue": "4"
+    },
+    {
+        "category": "T1H",
+        "fcstDate": "20250702",
+        "fcstTime": "1300",
+        "fcstValue": "30"
+    },
+    {
+        "category": "T1H",
+        "fcstDate": "20250702",
+        "fcstTime": "1400",
+        "fcstValue": "31"
+    },
+    {
+        "category": "T1H",
+        "fcstDate": "20250702",
+        "fcstTime": "1500",
+        "fcstValue": "31"
+    },
+    {
+        "category": "T1H",
+        "fcstDate": "20250702",
+        "fcstTime": "1600",
+        "fcstValue": "30"
+    },
+    {
+        "category": "T1H",
+        "fcstDate": "20250702",
+        "fcstTime": "1700",
+        "fcstValue": "30"
+    },
+    {
+        "category": "T1H",
+        "fcstDate": "20250702",
+        "fcstTime": "1800",
+        "fcstValue": "29"
+    },
+    {
+        "category": "REH",
+        "fcstDate": "20250702",
+        "fcstTime": "1300",
+        "fcstValue": "65"
+    },
+    {
+        "category": "REH",
+        "fcstDate": "20250702",
+        "fcstTime": "1400",
+        "fcstValue": "55"
+    },
+    {
+        "category": "REH",
+        "fcstDate": "20250702",
+        "fcstTime": "1500",
+        "fcstValue": "55"
+    },
+    {
+        "category": "REH",
+        "fcstDate": "20250702",
+        "fcstTime": "1600",
+        "fcstValue": "60"
+    },
+    {
+        "category": "REH",
+        "fcstDate": "20250702",
+        "fcstTime": "1700",
+        "fcstValue": "60"
+    },
+    {
+        "category": "REH",
+        "fcstDate": "20250702",
+        "fcstTime": "1800",
+        "fcstValue": "70"
+    },
+    {
+        "category": "UUU",
+        "fcstDate": "20250702",
+        "fcstTime": "1300",
+        "fcstValue": "1.7"
+    },
+    {
+        "category": "UUU",
+        "fcstDate": "20250702",
+        "fcstTime": "1400",
+        "fcstValue": "1.9"
+    },
+    {
+        "category": "UUU",
+        "fcstDate": "20250702",
+        "fcstTime": "1500",
+        "fcstValue": "1.8"
+    },
+    {
+        "category": "UUU",
+        "fcstDate": "20250702",
+        "fcstTime": "1600",
+        "fcstValue": "2.5"
+    },
+    {
+        "category": "UUU",
+        "fcstDate": "20250702",
+        "fcstTime": "1700",
+        "fcstValue": "3.1"
+    },
+    {
+        "category": "UUU",
+        "fcstDate": "20250702",
+        "fcstTime": "1800",
+        "fcstValue": "3.2"
+    },
+    {
+        "category": "VVV",
+        "fcstDate": "20250702",
+        "fcstTime": "1300",
+        "fcstValue": "2.4"
+    },
+    {
+        "category": "VVV",
+        "fcstDate": "20250702",
+        "fcstTime": "1400",
+        "fcstValue": "1.7"
+    },
+    {
+        "category": "VVV",
+        "fcstDate": "20250702",
+        "fcstTime": "1500",
+        "fcstValue": "1.4"
+    },
+    {
+        "category": "VVV",
+        "fcstDate": "20250702",
+        "fcstTime": "1600",
+        "fcstValue": "0.8"
+    },
+    {
+        "category": "VVV",
+        "fcstDate": "20250702",
+        "fcstTime": "1700",
+        "fcstValue": "0.5"
+    },
+    {
+        "category": "VVV",
+        "fcstDate": "20250702",
+        "fcstTime": "1800",
+        "fcstValue": "0.5"
+    },
+    {
+        "category": "VEC",
+        "fcstDate": "20250702",
+        "fcstTime": "1300",
+        "fcstValue": "216"
+    },
+    {
+        "category": "VEC",
+        "fcstDate": "20250702",
+        "fcstTime": "1400",
+        "fcstValue": "228"
+    },
+    {
+        "category": "VEC",
+        "fcstDate": "20250702",
+        "fcstTime": "1500",
+        "fcstValue": "233"
+    },
+    {
+        "category": "VEC",
+        "fcstDate": "20250702",
+        "fcstTime": "1600",
+        "fcstValue": "252"
+    },
+    {
+        "category": "VEC",
+        "fcstDate": "20250702",
+        "fcstTime": "1700",
+        "fcstValue": "261"
+    },
+    {
+        "category": "VEC",
+        "fcstDate": "20250702",
+        "fcstTime": "1800",
+        "fcstValue": "261"
+    },
+    {
+        "category": "WSD",
+        "fcstDate": "20250702",
+        "fcstTime": "1300",
+        "fcstValue": "3"
+    },
+    {
+        "category": "WSD",
+        "fcstDate": "20250702",
+        "fcstTime": "1400",
+        "fcstValue": "2"
+    },
+    {
+        "category": "WSD",
+        "fcstDate": "20250702",
+        "fcstTime": "1500",
+        "fcstValue": "2"
+    },
+    {
+        "category": "WSD",
+        "fcstDate": "20250702",
+        "fcstTime": "1600",
+        "fcstValue": "3"
+    },
+    {
+        "category": "WSD",
+        "fcstDate": "20250702",
+        "fcstTime": "1700",
+        "fcstValue": "3"
+    },
+    {
+        "category": "WSD",
+        "fcstDate": "20250702",
+        "fcstTime": "1800",
+        "fcstValue": "3"
+    }
+]
